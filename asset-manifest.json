@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/The_AI_News/static/css/main.c553ea94.chunk.css",
-    "main.js": "/The_AI_News/static/js/main.5c965175.chunk.js",
-    "main.js.map": "/The_AI_News/static/js/main.5c965175.chunk.js.map",
-    "runtime-main.js": "/The_AI_News/static/js/runtime-main.f259b8ab.js",
-    "runtime-main.js.map": "/The_AI_News/static/js/runtime-main.f259b8ab.js.map",
-    "static/js/2.6f378bb4.chunk.js": "/The_AI_News/static/js/2.6f378bb4.chunk.js",
-    "static/js/2.6f378bb4.chunk.js.map": "/The_AI_News/static/js/2.6f378bb4.chunk.js.map",
-    "static/js/3.440e924f.chunk.js": "/The_AI_News/static/js/3.440e924f.chunk.js",
-    "static/js/3.440e924f.chunk.js.map": "/The_AI_News/static/js/3.440e924f.chunk.js.map",
-    "index.html": "/The_AI_News/index.html",
-    "static/css/main.c553ea94.chunk.css.map": "/The_AI_News/static/css/main.c553ea94.chunk.css.map",
-    "static/js/2.6f378bb4.chunk.js.LICENSE.txt": "/The_AI_News/static/js/2.6f378bb4.chunk.js.LICENSE.txt",
-    "static/media/Logo.d720f9ba.ico": "/The_AI_News/static/media/Logo.d720f9ba.ico"
+    "main.css": "/AI_News/static/css/main.c553ea94.chunk.css",
+    "main.js": "/AI_News/static/js/main.5c965175.chunk.js",
+    "main.js.map": "/AI_News/static/js/main.5c965175.chunk.js.map",
+    "runtime-main.js": "/AI_News/static/js/runtime-main.3ddd448e.js",
+    "runtime-main.js.map": "/AI_News/static/js/runtime-main.3ddd448e.js.map",
+    "static/js/2.6f378bb4.chunk.js": "/AI_News/static/js/2.6f378bb4.chunk.js",
+    "static/js/2.6f378bb4.chunk.js.map": "/AI_News/static/js/2.6f378bb4.chunk.js.map",
+    "static/js/3.440e924f.chunk.js": "/AI_News/static/js/3.440e924f.chunk.js",
+    "static/js/3.440e924f.chunk.js.map": "/AI_News/static/js/3.440e924f.chunk.js.map",
+    "index.html": "/AI_News/index.html",
+    "static/css/main.c553ea94.chunk.css.map": "/AI_News/static/css/main.c553ea94.chunk.css.map",
+    "static/js/2.6f378bb4.chunk.js.LICENSE.txt": "/AI_News/static/js/2.6f378bb4.chunk.js.LICENSE.txt",
+    "static/media/Logo.d720f9ba.ico": "/AI_News/static/media/Logo.d720f9ba.ico"
   },
   "entrypoints": [
-    "static/js/runtime-main.f259b8ab.js",
+    "static/js/runtime-main.3ddd448e.js",
     "static/js/2.6f378bb4.chunk.js",
     "static/css/main.c553ea94.chunk.css",
     "static/js/main.5c965175.chunk.js"
