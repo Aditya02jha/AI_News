@@ -2,7 +2,7 @@
   "name": "alan_ai_news_application",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Aditya02jha.github.io/The_AI_News",
+  "homepage": "https://Aditya02jha.github.io/AI_News",
   "dependencies": {
     "@alan-ai/alan-sdk-web": "^1.8.43",
     "@emotion/react": "^11.10.6",
